@@ -1,0 +1,11 @@
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/bin/Debug/netcoreapp3.0/AdventofCode
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/bin/Debug/netcoreapp3.0/AdventofCode.deps.json
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/bin/Debug/netcoreapp3.0/AdventofCode.runtimeconfig.json
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/bin/Debug/netcoreapp3.0/AdventofCode.runtimeconfig.dev.json
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/bin/Debug/netcoreapp3.0/AdventofCode.dll
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/bin/Debug/netcoreapp3.0/AdventofCode.pdb
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/obj/Debug/netcoreapp3.0/AdventofCode.csprojAssemblyReference.cache
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/obj/Debug/netcoreapp3.0/AdventofCode.AssemblyInfoInputs.cache
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/obj/Debug/netcoreapp3.0/AdventofCode.AssemblyInfo.cs
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/obj/Debug/netcoreapp3.0/AdventofCode.dll
+/Users/zacoconnell/Desktop/AdventofCode/AdventofCode/obj/Debug/netcoreapp3.0/AdventofCode.pdb
