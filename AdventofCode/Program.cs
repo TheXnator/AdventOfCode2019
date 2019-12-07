@@ -213,7 +213,7 @@ namespace AdventofCode
                     {
                         Console.WriteLine(noun);
                         Console.WriteLine(verb);
-                        return 100 * noun * verb;
+                        return 100 * noun + verb;
                     }
                 }
             }

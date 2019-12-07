@@ -9,3 +9,14 @@
 /Users/zacoconnell/Desktop/AdventofCode/AdventofCode/obj/Debug/netcoreapp3.0/AdventofCode.AssemblyInfo.cs
 /Users/zacoconnell/Desktop/AdventofCode/AdventofCode/obj/Debug/netcoreapp3.0/AdventofCode.dll
 /Users/zacoconnell/Desktop/AdventofCode/AdventofCode/obj/Debug/netcoreapp3.0/AdventofCode.pdb
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\bin\Debug\netcoreapp3.0\AdventofCode.exe
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\bin\Debug\netcoreapp3.0\AdventofCode.deps.json
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\bin\Debug\netcoreapp3.0\AdventofCode.runtimeconfig.json
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\bin\Debug\netcoreapp3.0\AdventofCode.runtimeconfig.dev.json
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\bin\Debug\netcoreapp3.0\AdventofCode.dll
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\bin\Debug\netcoreapp3.0\AdventofCode.pdb
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\obj\Debug\netcoreapp3.0\AdventofCode.csprojAssemblyReference.cache
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\obj\Debug\netcoreapp3.0\AdventofCode.AssemblyInfoInputs.cache
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\obj\Debug\netcoreapp3.0\AdventofCode.AssemblyInfo.cs
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\obj\Debug\netcoreapp3.0\AdventofCode.dll
+C:\Users\trexn\Documents\AdventOfCode2019\AdventofCode\obj\Debug\netcoreapp3.0\AdventofCode.pdb
